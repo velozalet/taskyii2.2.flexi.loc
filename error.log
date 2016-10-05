@@ -1,0 +1,102 @@
+[Wed Jun 22 23:07:08.731177 2016] [:error] [pid 21284] [client 127.0.0.1:54899] PHP Warning:  require(/var/www/taskyii2.2.flexi.loc/web/../vendor/autoload.php): failed to open stream: No such file or directory in /var/www/taskyii2.2.flexi.loc/web/index.php on line 7
+[Wed Jun 22 23:07:08.731211 2016] [:error] [pid 21284] [client 127.0.0.1:54899] PHP Stack trace:
+[Wed Jun 22 23:07:08.731223 2016] [:error] [pid 21284] [client 127.0.0.1:54899] PHP   1. {main}() /var/www/taskyii2.2.flexi.loc/web/index.php:0
+[Wed Jun 22 23:07:08.731237 2016] [:error] [pid 21284] [client 127.0.0.1:54899] PHP Fatal error:  require(): Failed opening required '/var/www/taskyii2.2.flexi.loc/web/../vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/taskyii2.2.flexi.loc/web/index.php on line 7
+[Wed Jun 22 23:07:08.731242 2016] [:error] [pid 21284] [client 127.0.0.1:54899] PHP Stack trace:
+[Wed Jun 22 23:07:08.731248 2016] [:error] [pid 21284] [client 127.0.0.1:54899] PHP   1. {main}() /var/www/taskyii2.2.flexi.loc/web/index.php:0
+[Wed Jun 22 23:07:27.410324 2016] [:error] [pid 21286] [client 127.0.0.1:54905] PHP Warning:  require(/var/www/taskyii2.2.flexi.loc/web/../vendor/autoload.php): failed to open stream: No such file or directory in /var/www/taskyii2.2.flexi.loc/web/index.php on line 7
+[Wed Jun 22 23:07:27.410379 2016] [:error] [pid 21286] [client 127.0.0.1:54905] PHP Stack trace:
+[Wed Jun 22 23:07:27.410403 2016] [:error] [pid 21286] [client 127.0.0.1:54905] PHP   1. {main}() /var/www/taskyii2.2.flexi.loc/web/index.php:0
+[Wed Jun 22 23:07:27.410436 2016] [:error] [pid 21286] [client 127.0.0.1:54905] PHP Fatal error:  require(): Failed opening required '/var/www/taskyii2.2.flexi.loc/web/../vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/taskyii2.2.flexi.loc/web/index.php on line 7
+[Wed Jun 22 23:07:27.410449 2016] [:error] [pid 21286] [client 127.0.0.1:54905] PHP Stack trace:
+[Wed Jun 22 23:07:27.410462 2016] [:error] [pid 21286] [client 127.0.0.1:54905] PHP   1. {main}() /var/www/taskyii2.2.flexi.loc/web/index.php:0
+[Wed Jun 22 23:12:31.428761 2016] [:error] [pid 21730] [client 127.0.0.1:54958] PHP Warning:  require(/var/www/taskyii2.2.flexi.loc/web/../vendor/autoload.php): failed to open stream: No such file or directory in /var/www/taskyii2.2.flexi.loc/web/index.php on line 7
+[Wed Jun 22 23:12:31.428822 2016] [:error] [pid 21730] [client 127.0.0.1:54958] PHP Stack trace:
+[Wed Jun 22 23:12:31.428850 2016] [:error] [pid 21730] [client 127.0.0.1:54958] PHP   1. {main}() /var/www/taskyii2.2.flexi.loc/web/index.php:0
+[Wed Jun 22 23:12:31.428883 2016] [:error] [pid 21730] [client 127.0.0.1:54958] PHP Fatal error:  require(): Failed opening required '/var/www/taskyii2.2.flexi.loc/web/../vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/taskyii2.2.flexi.loc/web/index.php on line 7
+[Wed Jun 22 23:12:31.428897 2016] [:error] [pid 21730] [client 127.0.0.1:54958] PHP Stack trace:
+[Wed Jun 22 23:12:31.428910 2016] [:error] [pid 21730] [client 127.0.0.1:54958] PHP   1. {main}() /var/www/taskyii2.2.flexi.loc/web/index.php:0
+[Wed Jun 22 23:12:56.291811 2016] [:error] [pid 21857] [client 127.0.0.1:54966] PHP Warning:  require(/var/www/taskyii2.2.flexi.loc/web/../vendor/autoload.php): failed to open stream: No such file or directory in /var/www/taskyii2.2.flexi.loc/web/index.php on line 7
+[Wed Jun 22 23:12:56.291872 2016] [:error] [pid 21857] [client 127.0.0.1:54966] PHP Stack trace:
+[Wed Jun 22 23:12:56.291896 2016] [:error] [pid 21857] [client 127.0.0.1:54966] PHP   1. {main}() /var/www/taskyii2.2.flexi.loc/web/index.php:0
+[Wed Jun 22 23:12:56.291927 2016] [:error] [pid 21857] [client 127.0.0.1:54966] PHP Fatal error:  require(): Failed opening required '/var/www/taskyii2.2.flexi.loc/web/../vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/taskyii2.2.flexi.loc/web/index.php on line 7
+[Wed Jun 22 23:12:56.291940 2016] [:error] [pid 21857] [client 127.0.0.1:54966] PHP Stack trace:
+[Wed Jun 22 23:12:56.291954 2016] [:error] [pid 21857] [client 127.0.0.1:54966] PHP   1. {main}() /var/www/taskyii2.2.flexi.loc/web/index.php:0
+[Wed Jun 22 23:12:58.808963 2016] [:error] [pid 21858] [client 127.0.0.1:54967] PHP Warning:  require(/var/www/taskyii2.2.flexi.loc/web/../vendor/autoload.php): failed to open stream: No such file or directory in /var/www/taskyii2.2.flexi.loc/web/index.php on line 7
+[Wed Jun 22 23:12:58.809018 2016] [:error] [pid 21858] [client 127.0.0.1:54967] PHP Stack trace:
+[Wed Jun 22 23:12:58.809045 2016] [:error] [pid 21858] [client 127.0.0.1:54967] PHP   1. {main}() /var/www/taskyii2.2.flexi.loc/web/index.php:0
+[Wed Jun 22 23:12:58.809085 2016] [:error] [pid 21858] [client 127.0.0.1:54967] PHP Fatal error:  require(): Failed opening required '/var/www/taskyii2.2.flexi.loc/web/../vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/taskyii2.2.flexi.loc/web/index.php on line 7
+[Wed Jun 22 23:12:58.809098 2016] [:error] [pid 21858] [client 127.0.0.1:54967] PHP Stack trace:
+[Wed Jun 22 23:12:58.809112 2016] [:error] [pid 21858] [client 127.0.0.1:54967] PHP   1. {main}() /var/www/taskyii2.2.flexi.loc/web/index.php:0
+[Wed Jun 22 23:13:09.164086 2016] [:error] [pid 21859] [client 127.0.0.1:54968] PHP Warning:  require(/var/www/taskyii2.2.flexi.loc/web/../vendor/autoload.php): failed to open stream: No such file or directory in /var/www/taskyii2.2.flexi.loc/web/index.php on line 7
+[Wed Jun 22 23:13:09.164116 2016] [:error] [pid 21859] [client 127.0.0.1:54968] PHP Stack trace:
+[Wed Jun 22 23:13:09.164127 2016] [:error] [pid 21859] [client 127.0.0.1:54968] PHP   1. {main}() /var/www/taskyii2.2.flexi.loc/web/index.php:0
+[Wed Jun 22 23:13:09.164140 2016] [:error] [pid 21859] [client 127.0.0.1:54968] PHP Fatal error:  require(): Failed opening required '/var/www/taskyii2.2.flexi.loc/web/../vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/taskyii2.2.flexi.loc/web/index.php on line 7
+[Wed Jun 22 23:13:09.164146 2016] [:error] [pid 21859] [client 127.0.0.1:54968] PHP Stack trace:
+[Wed Jun 22 23:13:09.164151 2016] [:error] [pid 21859] [client 127.0.0.1:54968] PHP   1. {main}() /var/www/taskyii2.2.flexi.loc/web/index.php:0
+[Wed Jun 22 23:13:30.136976 2016] [:error] [pid 21857] [client 127.0.0.1:54974] PHP Warning:  require(/var/www/taskyii2.2.flexi.loc/web/../vendor/autoload.php): failed to open stream: No such file or directory in /var/www/taskyii2.2.flexi.loc/web/index.php on line 7
+[Wed Jun 22 23:13:30.137025 2016] [:error] [pid 21857] [client 127.0.0.1:54974] PHP Stack trace:
+[Wed Jun 22 23:13:30.137044 2016] [:error] [pid 21857] [client 127.0.0.1:54974] PHP   1. {main}() /var/www/taskyii2.2.flexi.loc/web/index.php:0
+[Wed Jun 22 23:13:30.137074 2016] [:error] [pid 21857] [client 127.0.0.1:54974] PHP Fatal error:  require(): Failed opening required '/var/www/taskyii2.2.flexi.loc/web/../vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/taskyii2.2.flexi.loc/web/index.php on line 7
+[Wed Jun 22 23:13:30.137084 2016] [:error] [pid 21857] [client 127.0.0.1:54974] PHP Stack trace:
+[Wed Jun 22 23:13:30.137098 2016] [:error] [pid 21857] [client 127.0.0.1:54974] PHP   1. {main}() /var/www/taskyii2.2.flexi.loc/web/index.php:0
+[Wed Jun 22 23:18:21.921108 2016] [:error] [pid 21860] [client 127.0.0.1:55010] PHP Warning:  require(/var/www/taskyii2.2.flexi.loc/web/../vendor/autoload.php): failed to open stream: No such file or directory in /var/www/taskyii2.2.flexi.loc/web/index.php on line 7
+[Wed Jun 22 23:18:21.921171 2016] [:error] [pid 21860] [client 127.0.0.1:55010] PHP Stack trace:
+[Wed Jun 22 23:18:21.921197 2016] [:error] [pid 21860] [client 127.0.0.1:55010] PHP   1. {main}() /var/www/taskyii2.2.flexi.loc/web/index.php:0
+[Wed Jun 22 23:18:21.921231 2016] [:error] [pid 21860] [client 127.0.0.1:55010] PHP Fatal error:  require(): Failed opening required '/var/www/taskyii2.2.flexi.loc/web/../vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/taskyii2.2.flexi.loc/web/index.php on line 7
+[Wed Jun 22 23:18:21.921246 2016] [:error] [pid 21860] [client 127.0.0.1:55010] PHP Stack trace:
+[Wed Jun 22 23:18:21.921276 2016] [:error] [pid 21860] [client 127.0.0.1:55010] PHP   1. {main}() /var/www/taskyii2.2.flexi.loc/web/index.php:0
+[Wed Jun 22 23:21:46.923226 2016] [:error] [pid 21898] [client 127.0.0.1:55022] PHP Warning:  require(/var/www/taskyii2.2.flexi.loc/web/../vendor/autoload.php): failed to open stream: No such file or directory in /var/www/taskyii2.2.flexi.loc/web/index.php on line 7
+[Wed Jun 22 23:21:46.923297 2016] [:error] [pid 21898] [client 127.0.0.1:55022] PHP Stack trace:
+[Wed Jun 22 23:21:46.923325 2016] [:error] [pid 21898] [client 127.0.0.1:55022] PHP   1. {main}() /var/www/taskyii2.2.flexi.loc/web/index.php:0
+[Wed Jun 22 23:21:46.923362 2016] [:error] [pid 21898] [client 127.0.0.1:55022] PHP Fatal error:  require(): Failed opening required '/var/www/taskyii2.2.flexi.loc/web/../vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/taskyii2.2.flexi.loc/web/index.php on line 7
+[Wed Jun 22 23:21:46.923381 2016] [:error] [pid 21898] [client 127.0.0.1:55022] PHP Stack trace:
+[Wed Jun 22 23:21:46.923396 2016] [:error] [pid 21898] [client 127.0.0.1:55022] PHP   1. {main}() /var/www/taskyii2.2.flexi.loc/web/index.php:0
+[Wed Jun 22 23:24:32.086373 2016] [:error] [pid 21858] [client 127.0.0.1:55061] PHP Warning:  require(/var/www/taskyii2.2.flexi.loc/web/../vendor/autoload.php): failed to open stream: No such file or directory in /var/www/taskyii2.2.flexi.loc/web/index.php on line 7
+[Wed Jun 22 23:24:32.086443 2016] [:error] [pid 21858] [client 127.0.0.1:55061] PHP Stack trace:
+[Wed Jun 22 23:24:32.086467 2016] [:error] [pid 21858] [client 127.0.0.1:55061] PHP   1. {main}() /var/www/taskyii2.2.flexi.loc/web/index.php:0
+[Wed Jun 22 23:24:32.086503 2016] [:error] [pid 21858] [client 127.0.0.1:55061] PHP Fatal error:  require(): Failed opening required '/var/www/taskyii2.2.flexi.loc/web/../vendor/autoload.php' (include_path='.:/usr/share/php:/usr/share/pear') in /var/www/taskyii2.2.flexi.loc/web/index.php on line 7
+[Wed Jun 22 23:24:32.086516 2016] [:error] [pid 21858] [client 127.0.0.1:55061] PHP Stack trace:
+[Wed Jun 22 23:24:32.086578 2016] [:error] [pid 21858] [client 127.0.0.1:55061] PHP   1. {main}() /var/www/taskyii2.2.flexi.loc/web/index.php:0
+[Thu Jun 23 00:33:19.146048 2016] [:error] [pid 22632] [client 127.0.0.1:55578] PHP Parse error:  syntax error, unexpected ',' in /var/www/taskyii2.2.flexi.loc/views/layouts/basic.php on line 72, referer: http://taskyii2.2.flexi.loc/main/login.html
+[Thu Jun 23 00:33:19.146081 2016] [:error] [pid 22632] [client 127.0.0.1:55578] PHP Stack trace:, referer: http://taskyii2.2.flexi.loc/main/login.html
+[Thu Jun 23 00:33:19.146094 2016] [:error] [pid 22632] [client 127.0.0.1:55578] PHP   1. {main}() /var/www/taskyii2.2.flexi.loc/web/index.php:0, referer: http://taskyii2.2.flexi.loc/main/login.html
+[Thu Jun 23 00:33:19.146102 2016] [:error] [pid 22632] [client 127.0.0.1:55578] PHP   2. yii\\base\\Application->run() /var/www/taskyii2.2.flexi.loc/web/index.php:12, referer: http://taskyii2.2.flexi.loc/main/login.html
+[Thu Jun 23 00:33:19.146110 2016] [:error] [pid 22632] [client 127.0.0.1:55578] PHP   3. yii\\web\\Application->handleRequest() /var/www/taskyii2.2.flexi.loc/vendor/yiisoft/yii2/base/Application.php:375, referer: http://taskyii2.2.flexi.loc/main/login.html
+[Thu Jun 23 00:33:19.146118 2016] [:error] [pid 22632] [client 127.0.0.1:55578] PHP   4. yii\\base\\Module->runAction() /var/www/taskyii2.2.flexi.loc/vendor/yiisoft/yii2/web/Application.php:84, referer: http://taskyii2.2.flexi.loc/main/login.html
+[Thu Jun 23 00:33:19.146126 2016] [:error] [pid 22632] [client 127.0.0.1:55578] PHP   5. yii\\base\\Controller->runAction() /var/www/taskyii2.2.flexi.loc/vendor/yiisoft/yii2/base/Module.php:454, referer: http://taskyii2.2.flexi.loc/main/login.html
+[Thu Jun 23 00:33:19.146133 2016] [:error] [pid 22632] [client 127.0.0.1:55578] PHP   6. yii\\base\\InlineAction->runWithParams() /var/www/taskyii2.2.flexi.loc/vendor/yiisoft/yii2/base/Controller.php:154, referer: http://taskyii2.2.flexi.loc/main/login.html
+[Thu Jun 23 00:33:19.146150 2016] [:error] [pid 22632] [client 127.0.0.1:55578] PHP   7. call_user_func_array() /var/www/taskyii2.2.flexi.loc/vendor/yiisoft/yii2/base/InlineAction.php:55, referer: http://taskyii2.2.flexi.loc/main/login.html
+[Thu Jun 23 00:33:19.146158 2016] [:error] [pid 22632] [client 127.0.0.1:55578] PHP   8. app\\controllers\\MainController->actionLogin() /var/www/taskyii2.2.flexi.loc/vendor/yiisoft/yii2/base/InlineAction.php:55, referer: http://taskyii2.2.flexi.loc/main/login.html
+[Thu Jun 23 00:33:19.146164 2016] [:error] [pid 22632] [client 127.0.0.1:55578] PHP   9. yii\\base\\Controller->render() /var/www/taskyii2.2.flexi.loc/controllers/MainController.php:114, referer: http://taskyii2.2.flexi.loc/main/login.html
+[Thu Jun 23 00:33:19.146171 2016] [:error] [pid 22632] [client 127.0.0.1:55578] PHP  10. yii\\base\\Controller->renderContent() /var/www/taskyii2.2.flexi.loc/vendor/yiisoft/yii2/base/Controller.php:379, referer: http://taskyii2.2.flexi.loc/main/login.html
+[Thu Jun 23 00:33:19.146177 2016] [:error] [pid 22632] [client 127.0.0.1:55578] PHP  11. yii\\base\\View->renderFile() /var/www/taskyii2.2.flexi.loc/vendor/yiisoft/yii2/base/Controller.php:393, referer: http://taskyii2.2.flexi.loc/main/login.html
+[Thu Jun 23 00:33:19.146184 2016] [:error] [pid 22632] [client 127.0.0.1:55578] PHP  12. yii\\base\\View->renderPhpFile() /var/www/taskyii2.2.flexi.loc/vendor/yiisoft/yii2/base/View.php:247, referer: http://taskyii2.2.flexi.loc/main/login.html
+[Thu Jun 23 00:33:47.649848 2016] [:error] [pid 25255] [client 127.0.0.1:55581] PHP Parse error:  syntax error, unexpected ',' in /var/www/taskyii2.2.flexi.loc/views/layouts/basic.php on line 72, referer: http://taskyii2.2.flexi.loc/main/login.html
+[Thu Jun 23 00:33:47.649884 2016] [:error] [pid 25255] [client 127.0.0.1:55581] PHP Stack trace:, referer: http://taskyii2.2.flexi.loc/main/login.html
+[Thu Jun 23 00:33:47.649896 2016] [:error] [pid 25255] [client 127.0.0.1:55581] PHP   1. {main}() /var/www/taskyii2.2.flexi.loc/web/index.php:0, referer: http://taskyii2.2.flexi.loc/main/login.html
+[Thu Jun 23 00:33:47.649904 2016] [:error] [pid 25255] [client 127.0.0.1:55581] PHP   2. yii\\base\\Application->run() /var/www/taskyii2.2.flexi.loc/web/index.php:12, referer: http://taskyii2.2.flexi.loc/main/login.html
+[Thu Jun 23 00:33:47.649913 2016] [:error] [pid 25255] [client 127.0.0.1:55581] PHP   3. yii\\web\\Application->handleRequest() /var/www/taskyii2.2.flexi.loc/vendor/yiisoft/yii2/base/Application.php:375, referer: http://taskyii2.2.flexi.loc/main/login.html
+[Thu Jun 23 00:33:47.649920 2016] [:error] [pid 25255] [client 127.0.0.1:55581] PHP   4. yii\\base\\Module->runAction() /var/www/taskyii2.2.flexi.loc/vendor/yiisoft/yii2/web/Application.php:84, referer: http://taskyii2.2.flexi.loc/main/login.html
+[Thu Jun 23 00:33:47.649927 2016] [:error] [pid 25255] [client 127.0.0.1:55581] PHP   5. yii\\base\\Controller->runAction() /var/www/taskyii2.2.flexi.loc/vendor/yiisoft/yii2/base/Module.php:454, referer: http://taskyii2.2.flexi.loc/main/login.html
+[Thu Jun 23 00:33:47.649934 2016] [:error] [pid 25255] [client 127.0.0.1:55581] PHP   6. yii\\base\\InlineAction->runWithParams() /var/www/taskyii2.2.flexi.loc/vendor/yiisoft/yii2/base/Controller.php:154, referer: http://taskyii2.2.flexi.loc/main/login.html
+[Thu Jun 23 00:33:47.649941 2016] [:error] [pid 25255] [client 127.0.0.1:55581] PHP   7. call_user_func_array() /var/www/taskyii2.2.flexi.loc/vendor/yiisoft/yii2/base/InlineAction.php:55, referer: http://taskyii2.2.flexi.loc/main/login.html
+[Thu Jun 23 00:33:47.649947 2016] [:error] [pid 25255] [client 127.0.0.1:55581] PHP   8. app\\controllers\\MainController->actionLogin() /var/www/taskyii2.2.flexi.loc/vendor/yiisoft/yii2/base/InlineAction.php:55, referer: http://taskyii2.2.flexi.loc/main/login.html
+[Thu Jun 23 00:33:47.649954 2016] [:error] [pid 25255] [client 127.0.0.1:55581] PHP   9. yii\\base\\Controller->render() /var/www/taskyii2.2.flexi.loc/controllers/MainController.php:114, referer: http://taskyii2.2.flexi.loc/main/login.html
+[Thu Jun 23 00:33:47.649961 2016] [:error] [pid 25255] [client 127.0.0.1:55581] PHP  10. yii\\base\\Controller->renderContent() /var/www/taskyii2.2.flexi.loc/vendor/yiisoft/yii2/base/Controller.php:379, referer: http://taskyii2.2.flexi.loc/main/login.html
+[Thu Jun 23 00:33:47.649977 2016] [:error] [pid 25255] [client 127.0.0.1:55581] PHP  11. yii\\base\\View->renderFile() /var/www/taskyii2.2.flexi.loc/vendor/yiisoft/yii2/base/Controller.php:393, referer: http://taskyii2.2.flexi.loc/main/login.html
+[Thu Jun 23 00:33:47.649985 2016] [:error] [pid 25255] [client 127.0.0.1:55581] PHP  12. yii\\base\\View->renderPhpFile() /var/www/taskyii2.2.flexi.loc/vendor/yiisoft/yii2/base/View.php:247, referer: http://taskyii2.2.flexi.loc/main/login.html
+[Thu Jun 23 00:33:59.374204 2016] [:error] [pid 22630] [client 127.0.0.1:55584] PHP Parse error:  syntax error, unexpected ',' in /var/www/taskyii2.2.flexi.loc/views/layouts/basic.php on line 72, referer: http://taskyii2.2.flexi.loc/main/login.html
+[Thu Jun 23 00:33:59.374243 2016] [:error] [pid 22630] [client 127.0.0.1:55584] PHP Stack trace:, referer: http://taskyii2.2.flexi.loc/main/login.html
+[Thu Jun 23 00:33:59.374258 2016] [:error] [pid 22630] [client 127.0.0.1:55584] PHP   1. {main}() /var/www/taskyii2.2.flexi.loc/web/index.php:0, referer: http://taskyii2.2.flexi.loc/main/login.html
+[Thu Jun 23 00:33:59.374267 2016] [:error] [pid 22630] [client 127.0.0.1:55584] PHP   2. yii\\base\\Application->run() /var/www/taskyii2.2.flexi.loc/web/index.php:12, referer: http://taskyii2.2.flexi.loc/main/login.html
+[Thu Jun 23 00:33:59.374276 2016] [:error] [pid 22630] [client 127.0.0.1:55584] PHP   3. yii\\web\\Application->handleRequest() /var/www/taskyii2.2.flexi.loc/vendor/yiisoft/yii2/base/Application.php:375, referer: http://taskyii2.2.flexi.loc/main/login.html
+[Thu Jun 23 00:33:59.374283 2016] [:error] [pid 22630] [client 127.0.0.1:55584] PHP   4. yii\\base\\Module->runAction() /var/www/taskyii2.2.flexi.loc/vendor/yiisoft/yii2/web/Application.php:84, referer: http://taskyii2.2.flexi.loc/main/login.html
+[Thu Jun 23 00:33:59.374291 2016] [:error] [pid 22630] [client 127.0.0.1:55584] PHP   5. yii\\base\\Controller->runAction() /var/www/taskyii2.2.flexi.loc/vendor/yiisoft/yii2/base/Module.php:454, referer: http://taskyii2.2.flexi.loc/main/login.html
+[Thu Jun 23 00:33:59.374299 2016] [:error] [pid 22630] [client 127.0.0.1:55584] PHP   6. yii\\base\\InlineAction->runWithParams() /var/www/taskyii2.2.flexi.loc/vendor/yiisoft/yii2/base/Controller.php:154, referer: http://taskyii2.2.flexi.loc/main/login.html
+[Thu Jun 23 00:33:59.374306 2016] [:error] [pid 22630] [client 127.0.0.1:55584] PHP   7. call_user_func_array() /var/www/taskyii2.2.flexi.loc/vendor/yiisoft/yii2/base/InlineAction.php:55, referer: http://taskyii2.2.flexi.loc/main/login.html
+[Thu Jun 23 00:33:59.374313 2016] [:error] [pid 22630] [client 127.0.0.1:55584] PHP   8. app\\controllers\\MainController->actionLogin() /var/www/taskyii2.2.flexi.loc/vendor/yiisoft/yii2/base/InlineAction.php:55, referer: http://taskyii2.2.flexi.loc/main/login.html
+[Thu Jun 23 00:33:59.374321 2016] [:error] [pid 22630] [client 127.0.0.1:55584] PHP   9. yii\\base\\Controller->render() /var/www/taskyii2.2.flexi.loc/controllers/MainController.php:114, referer: http://taskyii2.2.flexi.loc/main/login.html
+[Thu Jun 23 00:33:59.374328 2016] [:error] [pid 22630] [client 127.0.0.1:55584] PHP  10. yii\\base\\Controller->renderContent() /var/www/taskyii2.2.flexi.loc/vendor/yiisoft/yii2/base/Controller.php:379, referer: http://taskyii2.2.flexi.loc/main/login.html
+[Thu Jun 23 00:33:59.374335 2016] [:error] [pid 22630] [client 127.0.0.1:55584] PHP  11. yii\\base\\View->renderFile() /var/www/taskyii2.2.flexi.loc/vendor/yiisoft/yii2/base/Controller.php:393, referer: http://taskyii2.2.flexi.loc/main/login.html
+[Thu Jun 23 00:33:59.374341 2016] [:error] [pid 22630] [client 127.0.0.1:55584] PHP  12. yii\\base\\View->renderPhpFile() /var/www/taskyii2.2.flexi.loc/vendor/yiisoft/yii2/base/View.php:247, referer: http://taskyii2.2.flexi.loc/main/login.html
